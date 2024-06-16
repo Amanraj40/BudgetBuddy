@@ -1,7 +1,12 @@
-# Personal Expense Tracker
+# BudgetBuddy
 
 The Expense Tracking Database Management System `DBMS` project is a user-friendly application that allows an unlimited number of users to register, log in, and efficiently manage their personal expenses across diverse categories. Users have the flexibility to add, view, and delete expenses, providing a seamless experience for tracking their financial activities. The system also empowers users to manage expenses by sorting them based on months and categories, facilitating a clear overview of their spending habits. Moreover, the DBMS generates detailed expense reports on a daily, monthly, and yearly basis, assisting users in making informed financial decisions. This project simplifies expense tracking and enhances financial management for users of all backgrounds
 
+## Contributors
+
+1. Aman Raj(MNNIT Allahabad)
+2. Ashutosh Kumar(MNNIT Allahabad)
+ 
 ## Installation
 
 1. **Download and Install XAMPP :**
@@ -46,18 +51,11 @@ The Expense Tracking Database Management System `DBMS` project is a user-friendl
    - Open your browser and type `http://localhost/repository-folder-name` to access the project.
    - Replace `repository-folder-name` with the name of the folder created during the cloning process (By default : `DailyExpense-System`).
    
-2. **Default Login Credentials**
 
-   - Upon accessing the web application for the first time, use the following default login credentials:
-     - **Email** : anjalita@sjec.in
-     - **Password** : asdf1973
-
-3. **Work on the Project:**
+2. **Work on the Project:**
    - Any changes made within the cloned repository will reflect on the localhost URL (e.g., `http://localhost/DailyExpense-System`).
    
-4. **Manage XAMPP Services:**
+3. **Manage XAMPP Services:**
    - Use the XAMPP control panel to start/stop Apache, MySQL, and other services as needed.
 
 ---
-
-![Home Page](uploads/Home-Page.png)
